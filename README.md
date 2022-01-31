@@ -1,7 +1,7 @@
 - 🙋🏿‍♀️ Hi, I’m Mianta McKnight (@RogueStorm7)
 - 👩🏿‍💻 I’m interested in learning new things that help me to grow in my career.
 - 🌱 I’m currently learning full stack Web Development.
-- 💞️ I’m looking to collaborate on projects that will help me grow as a Web Developer.
+- 💞️ I’m looking to collaborate on projects that will help me excell as a Web Developer.
 - 📫 How to reach me miantamcknight2202gmail.com.
 
 <!---
